@@ -1,16 +1,7 @@
 # islami
 
-A new Flutter project.
+Islami is a Flutter-based Islamic application designed to provide essential daily spiritual content in a simple and user-friendly interface. The app allows users to read the Holy Qur’an, explore authentic Hadith, and use a digital Sebha for daily dhikr.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/d03daada-3ece-400d-9a48-8afbd149e154
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

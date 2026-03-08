@@ -14,4 +14,9 @@ class AppAsstes {
   static String sbhabg ="assets/images/Background2.png";
   static String radiobg ="assets/images/Background3.png";
   static String timebg ="assets/images/Background4.png";
+  static String mostRecently ="assets/images/img_most_recent.png";
+  static String suraListNumberIcon ="assets/images/img_sur_number_frame.png";
+  static String detailsPageBg ="assets/images/Group 38.png";
+  static String hadithCarsBg ="assets/images/Group 39.png";
+  static String sbhaImage ="assets/images/Group 40.png";
 }

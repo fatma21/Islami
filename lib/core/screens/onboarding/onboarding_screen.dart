@@ -18,7 +18,7 @@ class OnboardingScreen extends StatelessWidget {
         globalBackgroundColor: AppColors.darkMianColor,
         pages: [
           PageViewModel(
-            titleWidget: const SizedBox(),
+            titleWidget: const SizedBox(),  
             bodyWidget: OnboardWidget(imageName: AppAsstes.onbord1, Title: "Welcome To Islami App"),
           ),
           PageViewModel(

@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:islami/core/screens/appbar/appbar_widget.dart';
 import 'package:islami/core/screens/home_screens/hadith_screens/hadith_screen.dart';
 import 'package:islami/core/screens/home_screens/quran_screens/quran_screen.dart';
+import 'package:islami/core/screens/home_screens/radio_screens/radio_screen.dart';
 import 'package:islami/core/screens/home_screens/sbha_screens/sbha_scree.dart';
-import 'package:islami/core/screens/radio_screens/radio_screen.dart';
+import 'package:islami/core/screens/home_screens/time_screens/time_screens.dart';
 import 'package:islami/core/utils/app_colors.dart';
 import 'package:islami/core/utils/app_asstes.dart';
 import '../../utils/app_size.dart';
@@ -18,7 +19,7 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   int selectedIndex = 0;
   List<String>bgImage=[AppAsstes.quranbg,AppAsstes.hadithbg,AppAsstes.sbhabg,AppAsstes.radiobg,AppAsstes.timebg];
-  List<Widget>pageContent=[QuranScreen(),HadithScreen(),SbhaScreen(),RadioScreen(),Text("time")];
+  List<Widget>pageContent=[QuranScreen(),HadithScreen(),SbhaScreen(),RadioScreen(),TimeScreen()];
   Widget bottomNavBarIcon({required int index,required String icon}){
     return selectedIndex == index ?
       Container(

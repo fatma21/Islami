@@ -19,4 +19,11 @@ class AppAsstes {
   static String detailsPageBg ="assets/images/Group 38.png";
   static String hadithCarsBg ="assets/images/Group 39.png";
   static String sbhaImage ="assets/images/Group 40.png";
+  static String radioPlay ="assets/images/Mask group.png";
+  static String radioPlayed="assets/images/Mask group1.png";
+  static String salahTimeBG="assets/images/Group 35.png";
+  static String eveningAzkar="assets/images/bell-icon 1.png";
+  static String morningAzkar="assets/images/comment-bubble-icon 1.png";
+  static String wakingAzkar="assets/images/document-icon 1.png";
+  static String sleepingAzkar="assets/images/document-icon 12.png";
 }
